@@ -11,10 +11,6 @@ This is an open-source version of the original HoverZoom extension, which is now
 
 Sometimes sites change design, and when it happens, the extension needs to be updated. Please report any issues with zooming not working by filing an issue on https://github.com/extesy/hoverzoom/issues page.
 
-# Installation 
-- Navigate to your browser's extension marketplace (Google Chrome, Mozilla Firefox, or Microsoft Edge) and search for Hover Zoom. The extension page should look something like this:
-![alt text](\Assets\marketplacepage.png)
-
 
 
 
