@@ -13,7 +13,7 @@ Sometimes sites change design, and when it happens, the extension needs to be up
 
 # Installation 
 - Navigate to your browser's extension marketplace (Google Chrome, Mozilla Firefox, or Microsoft Edge) and search for Hover Zoom. The extension page should look something like this:
-![alt text]()
+![alt text](\Assets\marketplacepage.png)
 
 
 
