@@ -11,9 +11,36 @@ This is an open-source version of the original HoverZoom extension, which is now
 
 Sometimes sites change design, and when it happens, the extension needs to be updated. Please report any issues with zooming not working by filing an issue on https://github.com/extesy/hoverzoom/issues page.
 
-# Installation 
+# Helpful Tips
+
+## Installation 
 - Navigate to your browser's extension marketplace (Google Chrome, Mozilla Firefox, or Microsoft Edge) and search for Hover Zoom. The extension page should look something like this:
+  
 ![alt text](Assets/marketplacepage.png)
+
+## How to Use
+- By default, the extension is set to work automatically, which means any image on any supported site will pop up on its own, without any further input. When used, it should look something like this:
+
+![alt text](Assets/zoomexample.png)
+
+- However, you may find this annoying, and you may not want every image you scroll over to pop up. This is why we have implemented the ability to tie this extension to a hotkey. To enable this, you will first want to access the extension settings.
+On Google Chrome, click the 3 dots shown below, the select options. 
+
+![alt text](Assets/extensionsettings.png)
+
+It should be in a similar location for Microsoft Edge and Mozilla Firefox, just look for those 3 dots next to the extension wherever those are located in your browser of choice
+
+- Next, click on the Action keys tab, which should be here:
+
+![alt text](Assets/actionkeys.png)
+
+- In the setting "Activate HoverZoom+, select the key you would like to set as the hotkey (ie shift or ctrl). 
+
+- Scroll to the bottom of the page and select "Save", and your changes should be applied.
+
+## And that's about it! There are some other settings you can change, such as image transformation, background color, etc, but now it should be set up and functional. We hope you enjoy using HoverZoom+!
+### Please refer to the list of supported website listed above.
+
 
 > **This extension will never be sold out, and it will never compromise users' privacy.<br>
 > As a proof, please see [the list](https://github.com/extesy/hoverzoom/discussions/670) of all takeover offers I have received over the last few years.**
